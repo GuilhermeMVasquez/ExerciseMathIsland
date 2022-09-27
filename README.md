@@ -1,4 +1,4 @@
-# ExerciseMathIsland
+# Exercise Math Island
 ## Part 1
 My friend Knuth and I always had one goal in common: to find the math island
 
