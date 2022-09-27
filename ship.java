@@ -6,7 +6,7 @@ public class ship {
     public static void main(String[] args) {
         String[] arr = new String[783];
         try {
-            File myObj = new File("rota.txt");
+            File myObj = new File("instructions.txt");
             Scanner myReader = new Scanner(myObj);
             for (int index = 0; index < arr.length; index++) {
                 String data = myReader.nextLine();
