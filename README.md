@@ -46,7 +46,7 @@ Looking again at the instructions we realize that they were in fact referring to
 - "W" means move the waypoint West for the given value.
 - "L" means turn the waypoint left by a set number of degrees.
 - "R" means turn the waypoint right by a set number of degrees.
-- "F" means move the waypoint forward in the direction the ship is facing.
+- "F" means move the ship towards the waypoint.
 
 The waypoint starts at East 10, North 1.
 
